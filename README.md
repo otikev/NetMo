@@ -1,2 +1,2 @@
 # NetMo
-Android library for monitoring network and internet connectivity
+Android library for Network Monitoring and internet connectivity
